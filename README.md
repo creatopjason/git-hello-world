@@ -1,3 +1,3 @@
-# git-hello-world
+# git-hello-world user2
 
 hello jason no
