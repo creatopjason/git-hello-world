@@ -1,3 +1,3 @@
 # git-hello-world
 
-hello jason yes
+hello jason no
